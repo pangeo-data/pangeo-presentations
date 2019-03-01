@@ -1,5 +1,4 @@
 # pangeo-presentations
-place for version-controlled presentation materials or links
 
 * If you have content that is suitable for version control, please submit a pull request
     * add a subfolder with this naming scheme: `[date]-[yourname]/` and a description in this readme.md
